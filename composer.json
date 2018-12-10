@@ -9,7 +9,7 @@
         "component": {
             "scripts": [
                 "dist/js/bootstrap-iconpicker.min.js",
-                "src/js/iconset/iconset-fontawesome-all.js",
+                "src/js/iconset/iconset-fontawesome-4-all.js",
                 "src/js/iconset/iconset-glyphicon-all.js"
             ],
             "files": [
